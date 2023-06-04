@@ -1,6 +1,6 @@
 # bxscisportsapp
 
-A new Flutter project.
+We created an athletics app for our school. Although Bronx Science is a STEM school, we have a large sports community with many student athletes and record breaking sports teams. It was about time our school got an app to navigate daily sports updates!
 
 ## Getting Started
 
